@@ -8,8 +8,9 @@
 
   [Live Demo (Preview build. Payment is in test mode—use Stripe test card numbers only.)](https://reachai-top-git-preview-jaedon-farrs-projects.vercel.app/)
   
+  > 🔒 **Note:** The actual repository is private. This README showcases the project's architecture, features, and development journey.
+  
 </div>
-
 <div align="center">
   <img src="assets/reachai-hero.gif" alt="ReachAI Demo" width="100%"/>
 </div>
