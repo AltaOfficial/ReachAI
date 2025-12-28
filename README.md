@@ -1,3 +1,5 @@
+  > 🔒 **Note:** The actual repository is private. This README showcases the project's architecture, features, and development journey.
+
 # 🚀 ReachAI
 
 <div align="center">
@@ -7,8 +9,6 @@
   <img width="2940" height="1594" alt="image" src="https://github.com/user-attachments/assets/61f25163-510d-4713-ab6a-e99e675295ab" />
 
   [Live Demo (Preview build. Payment is in test mode—use Stripe test card numbers only.)](https://reachai-top-git-preview-jaedon-farrs-projects.vercel.app/)
-  
-  > 🔒 **Note:** The actual repository is private. This README showcases the project's architecture, features, and development journey.
   
 </div>
 <div align="center">
@@ -321,7 +321,7 @@ async function generateClientTransactionId({ path, method }) {
 - **AI as a translation tool**: Using Claude to port Python to JavaScript was incredibly effective - it handled the syntax conversion while preserving the complex logic I didn't understand.
 - **When to dive deep vs. when to move on**: I could've spent a month understanding cubic bezier curves and transformation matrices, but that wouldn't have gotten users. Knowing when to treat something as a black box is a valuable skill.
 
-This taught me an important lesson about pragmatism in engineering: shipping a working product is more valuable than deeply understanding every line of code, especially when you're working alone on an MVP.
+This taught me an important lesson about pragmatism in engineering: shipping a working product is more valuable than deeply understanding every line of code, especially when you're working alone on an MVP, whilst also handling school.
 
 #### 4. Headless Login Reliability Issues
 
